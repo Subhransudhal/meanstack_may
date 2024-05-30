@@ -25,5 +25,5 @@ function db_add(){
 node_add();
 
 // What is the need of it -  To perform asynchronous programing
-// How tocreat promise - new promise((reslove, reject)=>{})
+// How to creat promise - new promise((reslove, reject)=>{})
 // How to use promise/call promise - <nameoffunction>().then((value)=>{}, (err)=>{})
