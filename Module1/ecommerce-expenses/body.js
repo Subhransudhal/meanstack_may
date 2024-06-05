@@ -15,3 +15,4 @@ var exp = new expenses("TV","LED",20000)
 
 exp.add();
 console.log(exp);
+
